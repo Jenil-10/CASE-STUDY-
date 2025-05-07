@@ -41,8 +41,8 @@ b) Snapshot storage consumes 20% extra on average
 
 # Case Study: Resource Allocation and Cost Optimization in an OpenStack Private Cloud
 
-**Name:** DEEPAK.R
-**Register Number:** 212223140031
+**Name:** SHAIK MAHAMMAD IMRAAN
+**Register Number:** 212223100053
 
 ---
 
@@ -338,7 +338,3 @@ Answer:
 6 VMs
 
 This analysis provides a clear view of the current capacity and highlights how many VMs can be efficiently supported with existing block storage, considering snapshot overhead.
-
-
-
-
